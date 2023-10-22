@@ -1,0 +1,32 @@
+body{
+    background-color: yellowgreen;
+}
+h1{
+    font-size: 50px;
+    font-weight: bolder;
+    color: red;
+    letter-spacing: 0.2cm;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+}
+#score{
+    font-size:30px;
+    font-weight:bold;
+    color:black;
+    float:left;
+}
+#timer{
+    font-size:30px;
+    font-weight:bold;
+    color:black;
+    margin-right: 100px;
+    float: right;
+}
+#ball{
+    color:red;
+    font-weight:bold;
+    font-size:25px;
+}
+canvas{
+    margin-top: 80px;
+}
